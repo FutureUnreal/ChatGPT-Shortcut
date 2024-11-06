@@ -108,19 +108,9 @@ const config = {
           // remove the language dropdown from the navbar (if you only have one language)
           { type: "localeDropdown", position: "right" },
           {
-            href: "https://qm.qq.com/q/sHgB9eqd6E",
+            href: "https://qm.qq.com/q/59YPTzb7OU",
             position: "right",
             className: "header-qq-link",
-          },
-          {
-            href: "https://discord.gg/PZTQfJ4GjX",
-            position: "right",
-            className: "header-discord-link",
-          },
-          {
-            href: "https://github.com/rockbenben/ChatGPT-Shortcut",
-            position: "right",
-            className: "header-github-link",
           },
         ],
       },
