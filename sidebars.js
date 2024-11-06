@@ -31,24 +31,6 @@ const sidebars = {
       collapsed: false,
       items: ["guides/interface", "guides/login-user", "guides/community", "guides/faq"],
     },
-    {
-      type: "category",
-      label: "浏览器插件",
-      link: {
-        type: "generated-index",
-      },
-      collapsed: false,
-      items: ["extension/README", "extension/usage", "extension/manual-chrome-extension", "extension/manual-chrome-extension-zip", "extension/firefox-extension-setting", "extension/faq"],
-    },
-    {
-      type: "doc",
-      id: "deploy",
-    },
-    {
-      type: "category",
-      label: "Policies",
-      items: ["privacy-policy", "terms-of-service"],
-    },
   ],
 };
 
