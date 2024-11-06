@@ -22,4 +22,6 @@ AiUnrealShort 提供了一份简洁易用的 AI 指令列表，旨在帮助用�
 
 AiUnrealShort 的提示词来源包括网络精选、社区分享以及 [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)。
 
+欢迎使用我们的AI镜像服务[虚幻AI](https://isgpt.cloud)。
+
 
