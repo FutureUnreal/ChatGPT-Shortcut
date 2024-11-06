@@ -16,7 +16,7 @@ const config = {
   favicon: "img/favicon.ico",
 
   // Set the production url of your site here
-  url: "https://www.aishort.top",
+  url: "https://chat-gpt-shortcut-j4q4o9ah9-futureunreals-projects.vercel.app",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: "/",
@@ -104,52 +104,6 @@ const config = {
             to: "/community-prompts",
             label: "🏘️ 社区提示词",
             position: "left",
-          },
-          {
-            type: "dropdown",
-            label: "🛠️ 应用工具",
-            position: "left",
-            items: [
-              {
-                label: "脚本扩展",
-                to: "/docs/extension",
-              },
-              {
-                label: "IMGPrompt",
-                href: "https://prompt.newzone.top/",
-              },
-              {
-                label: "文字处理",
-                href: "https://tools.newzone.top/json-translate",
-              },
-              {
-                label: "工具收藏",
-                href: "https://nav.newzone.top",
-              },
-              {
-                label: "Find on Product Hunt",
-                href: "https://www.producthunt.com/posts/chatgpt-shortcut?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-chatgpt&#0045;shortcut",
-              },
-            ],
-          },
-          {
-            type: "dropdown",
-            label: "反馈建议",
-            position: "left",
-            items: [
-              {
-                label: "📝 提交反馈",
-                to: "/feedback",
-              },
-              {
-                label: "💬 加入 QQ 群",
-                href: "https://img.newzone.top/qq736094782.jpg?imageMogr2/format/webp",
-              },
-              {
-                label: "📺 加入 Discord",
-                href: "https://discord.gg/PZTQfJ4GjX",
-              },
-            ],
           },
           // remove the language dropdown from the navbar (if you only have one language)
           { type: "localeDropdown", position: "right" },
