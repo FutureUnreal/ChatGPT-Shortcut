@@ -16,7 +16,7 @@ const config = {
   favicon: "img/favicon.ico",
 
   // Set the production url of your site here
-  url: "https://chat-gpt-shortcut-j4q4o9ah9-futureunreals-projects.vercel.app",
+  url: "https://www.ai-unreal.xin",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: "/",
