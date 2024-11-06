@@ -18,7 +18,7 @@ AiShort 提供了一份简洁易用的 AI 指令列表，旨在帮助用户，�
 
 🗳️ **社区投票**：与 Product Hunt 或 Reddit 类似，平台由社区驱动，最佳提示词将推送至首页。
 
-📦 **开箱即用**：只需访问 https://chat-gpt-shortcut-j4q4o9ah9-futureunreals-projects.vercel.app ，即可开始使用。
+📦 **开箱即用**：只需访问 https://www.ai-unreal.xin ，即可开始使用。
 
 AiShort 的提示词来源包括网络精选、社区分享以及 [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)。
 
