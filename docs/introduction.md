@@ -4,7 +4,7 @@ slug: /
 
 # 介绍
 
-AiUnrealShort 提供了一份简洁易用的 AI 指令列表，旨在帮助用户，即使是那些不熟悉提示词知识的人，也能轻松地通过筛选和查询找到适用于各种场景的提示词，从而提升个人的生产力。
+AiShort 提供了一份简洁易用的 AI 指令列表，旨在帮助用户，即使是那些不熟悉提示词知识的人，也能轻松地通过筛选和查询找到适用于各种场景的提示词，从而提升个人的生产力。
 
 🚀 **一键提示词**：我们精选了各类专业提示词，您只需一键操作，即可将其发送给 ChatGPT 等 AI 语言模型，获得期望的输出结果。
 
@@ -20,7 +20,7 @@ AiUnrealShort 提供了一份简洁易用的 AI 指令列表，旨在帮助用�
 
 📦 **开箱即用**：只需访问 https://chat-gpt-shortcut-j4q4o9ah9-futureunreals-projects.vercel.app ，即可开始使用。
 
-AiUnrealShort 的提示词来源包括网络精选、社区分享以及 [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)。
+AiShort 的提示词来源包括网络精选、社区分享以及 [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)。
 
 欢迎使用我们的AI镜像服务[虚幻AI](https://isgpt.cloud)。
 
