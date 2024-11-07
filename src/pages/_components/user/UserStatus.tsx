@@ -50,7 +50,6 @@ const UserStatus = ({ hideLinks = { userCenter: false, myFavorite: false } }) =>
   };
 
   if (userAuth === undefined) {
-    // 如果 userAuth 是 undefined，说明状态正在加载
     return <div>Loading...</div>;
   } else if (userAuth) {
     return (
@@ -165,19 +164,8 @@ const UserStatus = ({ hideLinks = { userCenter: false, myFavorite: false } }) =>
       </>
     );
   } else {
-    return (
-      <>
-        <Link className="button button--secondary" onClick={() => setOpen(true)} style={{ marginRight: "10px" }}>
-          <Translate id="button.login">登录</Translate>
-        </Link>
-        <Link className="button button--primary" to="/community-prompts">
-          <Translate id="showcase.header.button">🙏 分享你的提示词</Translate>
-        </Link>
-        <Modal open={open} footer={null} onCancel={() => setOpen(false)}>
-          <LoginComponent />
-        </Modal>
-      </>
-    );
+    // 未登录状态下不显示任何按钮
+    return null;
   }
 };
 
